@@ -1,50 +1,37 @@
-````markdown name=README.md
-# Hi there, I'm Isha Desale! 👋
+# Hi 👋 I'm Isha Desale  
+Electronics Engineering Student
 
-🌱 **Student | Electronics & Robotics Enthusiast | Maker**
+🔧 Interested in Embedded Systems & Core Electronics  
+💡 Working on Arduino-based projects and practical Electronics  
 
----
+#🔹 About me
+- Electronics Engineering student passionate about **core electronics**
+- Learning and building projects using **Arduino & sensors**
+- Interested in **Embedded Systems, Automation, and Hardware-based projects**
+- Actively improving practical skills through hands-on projects
 
-## 👩‍💻 About Me
+## 🔹 Skills
+- Arduino Programming  
+- Embedded Systems Basics  
+- Analog & Digital Electronics  
+- Circuit Design & Simulation  
+- Basics of C Programming  
 
-- 🎓 Student passionate about electronics, robotics, and programming.
-- 🤖 Enjoy building and experimenting with Arduino projects, analog circuit design, and automation.
-- 💡 Always keen and excited to learn new things!
-- 🚀 "Excited to learning new things and bringing ideas to life!"
+## 🔹 Projects
+- 🔥 **Temperature Controlled Fan using Arduino**  
+- 💡 **LED Blinking Circuit (Basic Electronics)**  
+- 🎒 **Energy Harvesting Backpack** *(ongoing)*  
 
----
+## 🔹 Tools & Technologies
+- Arduino IDE  
+- Tinkercad  
+- Inkaro  
+- Proteus (Basics)
 
-## 🛠️ Skills
-
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![Electronics](https://img.shields.io/badge/-Electronics-yellow?style=flat-square)
-![Analog Circuits](https://img.shields.io/badge/-Analog%20Circuits-blue?style=flat-square)
-
----
-
-## 🚀 Projects
-
-- **Customize Curtain Set**  
-  Automated curtain system using remote sensor and thermistor temperature sensor for smart environmental control.
-
-- **Robocar**  
-  DIY robotic car project for exploring robotics, automation, and Arduino programming.
-
----
-
-## 📫 Connect With Me
-
-- [LinkedIn](https://www.linkedin.com/in/isha-desale-27feb2004)
-
----
-
-## ✨ Fun Fact
-
-I love experimenting with new sensors and building creative electronics projects in my free time!
-
----
-
-_Thanks for visiting my profile!_
-````
+## 🔹 Learning Goals
+- Strengthen core electronics fundamentals  
+- Build real-world embedded projects  
+- Prepare for roles in Embedded / Core Electronics industry
+  
+## 🔹 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/ishadesale
